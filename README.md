@@ -21,6 +21,7 @@ This tool is meant to be called from a Zed task.
     "label": "Toggle Test and Target",
     "command": "zed-test-toggle",
     "args": [
+      "lookup",
       "-p",
       "\"$ZED_RELATIVE_FILE\"",
       "-r",
