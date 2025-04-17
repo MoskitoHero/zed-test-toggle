@@ -3,6 +3,15 @@ This small gem is designed to allow developers to switch to the test relative to
 
 It is still in the early stages of development. Feel free to propose improvements.
 
+## Installation
+
+Install the gem:
+
+``` sh
+gem install zed-test-toggle
+```
+
+
 ## Usage
 This tool is meant to be called from a Zed task.
 
