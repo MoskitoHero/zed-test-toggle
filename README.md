@@ -10,7 +10,7 @@ This tool is meant to be called from a Zed task.
 [
   {
     "label": "Toggle Test and Target",
-    "command": "~/dev/moskitohero/zed-test-toggle/exe/zed-test-toggle",
+    "command": "zed-test-toggle",
     "args": [
       "-p",
       "\"$ZED_RELATIVE_FILE\"",
