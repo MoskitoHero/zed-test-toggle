@@ -34,7 +34,7 @@ This tool is meant to be called from a Zed task.
 ]
 ```
 
-And called with a keybinding. If called from the Task list, the env variables of the task will not be refreshed, and you will just keep juping to the eame file. The Zed team considers this a feature for now, so using a keybinding is mandatory.
+And called with a keybinding. If called from the Task list, the env variables of the task will not be refreshed, and you will just keep jumping to the same file. The Zed team [considers this a feature for now](https://github.com/zed-industries/zed/issues/16996), so using a keybinding with the use of `reevaluate_context` is mandatory.
 
 ```json
 
